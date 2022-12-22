@@ -1,0 +1,13 @@
+Item,Drink,Price
+1,Milk Coffee,15
+2,Milk Tea,13
+3,Black Coffee,13
+4,Lemon Tea,10
+5,Hot Chocolate,16
+6,Cold Milk,8
+7,Coca Cola (iced),13
+8,Sprite (iced),13
+9,Coca Cola Zero (iced),13
+10,Fanta (iced),13
+11,Orange Juice (Fresh),10
+12, No Drink,0

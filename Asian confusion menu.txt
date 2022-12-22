@@ -1,0 +1,12 @@
+Set,Name,Price,Count
+1,Egg Fried Rice,35,113
+2,Hainanese Chicken Rice,40,4
+3,Chow Mien,30,3
+4,Bibimbap,40,3
+5,Tonkatsu Ramen,50,1
+6,Pad Thai,45,45
+7,Chicken Tikka Masala,55,1
+8,Beef Satay,35,1
+9,Pho,45,1
+10,Adobo,40,25
+11,Salad,100,5
